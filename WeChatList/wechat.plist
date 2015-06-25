@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>王五</string>
+		<key>icon</key>
+		<string>001.png</string>
+		<key>message</key>
+		<string>今天来我家吃饭</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>张三</string>
+		<key>icon</key>
+		<string>001.png</string>
+		<key>message</key>
+		<string>今天来我家吃饭</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>李四</string>
+		<key>icon</key>
+		<string>002.png</string>
+		<key>message</key>
+		<string>明天过来报道</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>卡卡</string>
+		<key>icon</key>
+		<string>003.png</string>
+		<key>message</key>
+		<string>明天踢球，准备好球衣，希望不会下雨，最近天气很怪啊！</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>李白</string>
+		<key>icon</key>
+		<string>004.png</string>
+		<key>message</key>
+		<string>白日依山尽，黄河入海流，欲穷千里目，更上一层楼</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>老豆</string>
+		<key>icon</key>
+		<string>005.png</string>
+		<key>message</key>
+		<string>儿子，今天回家吃饭吗？</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>老婆</string>
+		<key>icon</key>
+		<string>006.png</string>
+		<key>message</key>
+		<string>亲爱的，在干什么？非常想你</string>
+	</dict>
+</array>
+</plist>
